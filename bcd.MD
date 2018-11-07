@@ -1,4 +1,4 @@
-```
+```asm
 ORG 0000H
 AJMP LP 
 ORG 000H
